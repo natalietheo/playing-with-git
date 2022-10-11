@@ -1,0 +1,3 @@
+mkdir gitDir
+cd gitDir
+echo "Git is awesome!" > gitText
